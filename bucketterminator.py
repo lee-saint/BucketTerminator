@@ -26,5 +26,3 @@ if __name__ == '__main__':
             print('Deletion cancelled.')
     else:  # 없으면 취소됨
         print('No buckets found!')
-
-    print('Quitting...')
